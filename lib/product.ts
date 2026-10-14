@@ -1,8 +1,8 @@
 export const product = {
   name: 'Mlue Timer',
-  installerPath: '/app/app.exe',
+  installerPath: 'https://github.com/AbdElRahman501/mlue-timer/releases/download/test/mlue-timer.exe',
   platform: 'Windows',
-  installerAvailable: false,
+  installerAvailable: true,
   screenshotUrl: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-plWN7N0MXBVLNLtkq3kmYTzSbx3qMo.png',
   description: 'Plan your day, focus on what matters, build better habits, and turn meaningful goals into consistent progress.',
 } as const
